@@ -3,6 +3,13 @@
 Welcome to the **Systems Team Handbook**!  
 This repository provides a comprehensive guide for the Systems Team, detailing our processes, tools, and best practices. It is designed to help both new and existing team members understand our workflows and contribute effectively to our mission of delivering high-quality systems solutions.
 
+## 📖 Online Documentation
+
+[![Read the Docs](https://img.shields.io/readthedocs/sb-systems-process?logo=readthedocs)](https://sb-systems-process.readthedocs.io/en/latest/)
+
+👉 **Access the latest documentation here:**  
+[https://sb-systems-process.readthedocs.io/en/latest/](https://sb-systems-process.readthedocs.io/en/latest/)
+
 ---
 
 ## Who Should Use This Handbook?
